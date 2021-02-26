@@ -9,20 +9,21 @@ ECP Assignment
 intelligence:
 
     • A computer does not generate its own ideas but a nine yaer old can 
-      think for itself.(i agree with this point )
+      think for itself.(i really agree to this) 
       
     • The nine year olds are better suited for the adapdation in the real
       world as the computer can not think for it self in these kind of
-      situations. ( i agree with this point)
+      situations. (this was a good point and I agreed to it) 
+)
       
     • it is a similar situation as a wise man and another man coming to
       the wise man for advice,so, in this situation the computer is
-      obviosly better. ( This does not follow as the premise does not apply
-      to the argument and is therefor a fallacy)
+      obviosly better. ( This was not actually in line with the discussion in
+      The class, so I did not agreed to that. )
       
     • The children might forget some things on how to solve a problem but
       the computer does not have such a problem and it uses all its resource
-      to solve a particular problem.( This is a valid point but it does not
+      to solve a particular problem.( This is a good point but it does not
       directly relate to intelligence and also does not account for the fact
       that computer memory can also be corrupted).
       
@@ -34,8 +35,7 @@ intelligence:
     • A child for example has eye and a computer had an equivalent camera,
       the brain of the child by instinct knows how to accomodate the focus of
       the eye will a computer has to pe programmed to use the camera if it
-      does not already have a driver for it. ( Instinct in this case is a form
-      of intelligence, not gotten from experience but from our DNA as humans)
+      does not already have a driver for it.
 
     • From the dictionary definition of inteligence which is to be able to
       apply acquired knowledge in real situations, the 9 year old not be up to
@@ -95,14 +95,12 @@ Power
 
 
 Conclusion/Personnal opinion:
-        I belive that comparing two different things that work on fundamentally
-        diffent principles and are for different purposes would be a flawed agument
-        as they do very distinct things.
-        Humans created computers to automate mundane tasks that require precision
-        like calculations on a spreadsheet, calculating tragechery for a space
-        shuttle, sorting information, e.t.c
-        the Human brain was created to control the body and all its functions
-        directly or indirectly.
-        So unless a computer is created that can do the same or an organic brain
-        is made just for the same purpose as a computer, it is arguably nonsensical
-        to compare them.
+        
+      In my opinion, a computer can never overcome humans in terms of thinking,
+      hearing, sight, smelling. There are a lot of fields where we require a brain 
+      to complete tasks. On the other hand, Human Brain is more powerful than a computer.
+      Unless and until the computers gain the ability to think on their own we cannot call 
+      them intelligent.
+      The computer is faster at doing logical things and computations. However, the 
+      brain is better at interpreting the outside world and coming up with new ideas. 
+      The brain is capable of imagination.
